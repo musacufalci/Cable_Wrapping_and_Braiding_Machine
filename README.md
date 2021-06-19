@@ -1,4 +1,4 @@
-# Cable_wrapping_and_braiding_machine
+# Cable_Wrapping_and_Braiding_Machine
 
 - HMI PANEL ( HUMAN MACHINE INTERFACE ) Touch Panel (Touch) TFT screen 
 - PLC (Programmable Logic Controller )
