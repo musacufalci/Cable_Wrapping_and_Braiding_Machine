@@ -10,4 +10,4 @@ It has been tried and accepted by many companies in Turkey and Europe with its s
 
 Through the PLC screen, you can see any problem that may occur in the machine on the screen and intervene immediately...
 
-Design by https://www.linkedin.com/in/musacufalci/
+Design by: https://www.linkedin.com/in/musacufalci/
