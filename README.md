@@ -1,4 +1,4 @@
-# Cable_Wrapping_and_Braiding_Machine
+# Cable Wrapping and Braiding Machine
 
 - The work of the project:  https://youtu.be/ebECrzVCD1E
 
